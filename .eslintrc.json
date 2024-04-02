@@ -1,0 +1,3 @@
+{
+    "extends": "@murandido/eslint-config/node"
+}

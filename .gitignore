@@ -135,3 +135,4 @@ dist
 # prisma
 prisma/*
 !prisma/schema.prisma
+!prisma/seed.ts
